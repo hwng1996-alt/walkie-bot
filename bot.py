@@ -3,8 +3,7 @@ import os
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-import os
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = "8716392420:AAHuA49nLZ7JHJY9CKIH7Ot0oa0X2Zd9d64"
 DATA_FILE = "walkies.json"
 
 
